@@ -14,11 +14,11 @@
 		<!-- Customize your theme here. -->
 	</style>
 
-	<style name="Theme.XamarinBasicSplashScreen.NoActionBar">
-		<item name="windowActionBar">false</item>
-		<item name="windowNoTitle">true</item>
-	</style>
-
 	<style name="Theme.PredictiveBackGesture.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
 	<style name="Theme.PredictiveBackGesture.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
-</resources> 
+</resources>
+
+<!--<style name="Theme.XamarinBasicSplashScreen.NoActionBar">
+	<item name="windowActionBar">false</item>
+	<item name="windowNoTitle">true</item>
+</style>-->
